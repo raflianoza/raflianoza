@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Studying at MAN Insan Cendekia Sumedang.<br>🌱 Interested in Frontend Web Development, Competitive Programming, and Network Engineering.<br>💬 Code since I was 10.
+🔭 Studying at MAN Insan Cendekia Sumedang.<br>🌱 Interested in Frontend Web Development, Competitive Programming, and Network Engineering.<br>📝 Teaching web development extracurricular.<br>💬 Code since I was 10.
 
 
 ## 🌐 Socials:
