@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raplianoza) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0daayz) [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)](https://mirror.codeforces.com/profile/ddoryie)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raplianoza) [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)](https://mirror.codeforces.com/profile/ddoryie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0daayz)
 
 
 # 💻 Tech Stack:
